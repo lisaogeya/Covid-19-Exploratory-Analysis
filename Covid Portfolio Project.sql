@@ -1,5 +1,6 @@
 Select *
 from PortfolioProject1..CovidDeaths$
+where continent is not null
 ORDER BY 3, 4
 
 --Select *
@@ -69,7 +70,7 @@ Join CovidVaccination$ as vac
   ON  dea.location = vac.location
    and dea.date = vac.date
 where dea.continent is not null
-order by 2, 3
+order by dea.location, dea.date
 
 
 --Using CTE
