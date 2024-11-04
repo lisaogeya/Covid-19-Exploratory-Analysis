@@ -7,4 +7,8 @@ This project aims to explore and analyze  COVID-19 data using SQL, focusing on c
 
 [Covid_19 Datasets](https://drive.google.com/drive/folders/1j4HSv1dAzQ0rb1_5Lq2034Newj4rsVFe?usp=drive_link)
 
+## Exploration
+
+[SQL Exploration]()
+
 
