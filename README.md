@@ -9,6 +9,6 @@ This project aims to explore and analyze  COVID-19 data using SQL, focusing on c
 
 ## Exploration
 
-[SQL Exploration]()
+[SQL Exploration](Covid Portfolio Project.sql)
 
 
